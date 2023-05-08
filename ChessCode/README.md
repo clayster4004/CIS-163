@@ -1,0 +1,1 @@
+This project holds the game logic and visuals for a chess game. It can play as normal games do except castling, stalemates, and en passant is not coded into the game logic. Other than than that everything works great and the AI is a simple AI that first looks for mate > check > queen > bishop > knight > rook > pawn > random valid move.
