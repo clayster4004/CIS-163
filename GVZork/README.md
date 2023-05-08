@@ -1,0 +1,1 @@
+This project is a play on the original Zork game. It takes you on an adventure looking for food to feed the elf, as well as other hidden items and npcs to talk to. The users needs to feed the elf a certain amount of calories for him to unfreeze campus for you to save the day.
